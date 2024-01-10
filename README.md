@@ -11,4 +11,4 @@ repository that demonstrates my ML applications, predictive analytics, and forec
 ## Data Collection
 
 The Python code references csv files that I have gathered from a Banner DB, which is a product of Oracle. I write scripts in PL/SQL to pull the data. From there, I move 
-over to Python. For ML tasks, I use a combination of R and Python, depnding on the task.
+over to Python. For ML tasks, I use a combination of R and Python, depnding on the task. Due to FERPA laws, I cannot attach the raw data files for others to run the scripts. 
