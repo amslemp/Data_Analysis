@@ -1,7 +1,7 @@
 # Data Analysis
 
 This repository contains the python code for the high level data analysis I have done for VPs, Executives, and Directors that is typically the result of ad hoc requests. 
-What I love about these requests is they typically ask me to do things that were not on my radar. Many non-data analysts/scientists have the most interesting projects
+What I love about these requests is they typically ask me to do things that were not on my radar. Many non-data analysts/scientists have the interesting projects
 and proposals for my time. I love tackeling these requests for them and will typically be able to knock most of them out in a matter of minutes to a few hours at the most. 
 For non-data people, every request seems cumbersome. I always assure them that it is not. 
 
