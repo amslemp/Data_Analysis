@@ -1,6 +1,6 @@
 # Consulting Group Analysis
 
-The college looked into hiring a consulting group for a specific set of programs. The analysis titled *Major Analysis for Consulting Group* is a broad overview of the last several years of the programs. It is meant to give trends of GPA distributions, age distributions, contour plots, average credit hours taken, and the percentage of seats filled for each class. Seats filled is a contribution analsys with the goal of having more seats filled for each class each year. In theory, this reflects better gross profits (revenue - COMS or rev - cost = gross profit). The seats filled is a simple equation:
+The college looked into hiring a consulting group for a specific set of programs. The analysis titled *Major Analysis for Consulting Group* is a broad overview of the last several years of the programs. It is meant to give trends of GPA distributions, age distributions, contour plots, average credit hours taken, and the percentage of seats filled for each class. Seats filled is a contribution analysis with the goal of having more seats filled for each class each year. In theory, this reflects better gross profits (revenue - COMS or rev - cost = gross profit). The seats filled is a simple equation:
 
 $$\frac{\text{seats enrolled}}{\text{seats available}} = \text{percentage of seats filled}$$
 
