@@ -8,5 +8,5 @@ The *Trends in Majors* helped set the bar for what the consulting group was shoo
 
 ## Results
 
-In the end, because of this analysis and the algorithms I wrote that allows us to quickly examine trends, we actually recognized this consulting group mischaracterized their effectiveness. Consequently, it saved the college $300,000 that the VPs, President, and Board were considering spending. 
+In the end, because of this analysis and the algorithms I wrote that allows us to quickly examine trends, we discovered this consulting group mischaracterized their effectiveness in a presentation to the board. Consequently, it saved the college $300,000 that the VPs, President, and Board were considering spending. 
 
