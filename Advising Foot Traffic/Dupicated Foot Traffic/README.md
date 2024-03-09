@@ -8,7 +8,7 @@ This results in wild disparities between advisors. Some advisors will enter a st
 
 Once again, the data included here, even though it is the advising sign-in sheet, cannot be included in its raw form due to FERPA laws. 
 
-Teh data was pulled from our sign-in sheets and then I cleaned it to be used for analysis. The raw form of the data is in no way ready for analysis. Missing dates, wrong data formats, and simple 'x' to indicate a category all need to be cleaned and programmed for meaning. 
+The data was pulled from our sign-in sheets and then I cleaned it to be used for analysis. The raw form of the data is in no way ready for analysis. Missing dates, wrong data formats, and simple 'x' to indicate a category all need to be cleaned and programmed for meaning. 
 
 # Results
 
