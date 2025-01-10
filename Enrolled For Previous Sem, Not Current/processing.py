@@ -19,8 +19,9 @@ def select_term(df, term):
     
     mask = df['TERM'] == term
     
-    upcoming = df[mask].reset_index(drop = True)\
-                       .rename(columns = {'RESD':'RESCODE'})
+    upcoming = (df[mask].reset_index(drop = True)
+                        .rename(columns = {'RESD':'RESCODE'})
+               )
     
     return upcoming
 
@@ -85,6 +86,8 @@ def final_df(main_df, phone):
 
     phone = phone[['ID', 'PRPHONE', 'BRPHONE', 'CARPHONE', 'EMAIL', 'OTHEREMAIL', 'HOLDS']]
 
-    final = main_df.merge(phone, how = 'left', on = 'ID').drop_duplicates('ID')\
-                   .reset_index(drop = True)
+    final = (main_df.merge(phone, how = 'left', on = 'ID').drop_duplicates('ID')
+                    .reset_index(drop = True)
+            )
+    
     return final
