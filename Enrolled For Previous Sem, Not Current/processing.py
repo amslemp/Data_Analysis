@@ -86,7 +86,8 @@ def final_df(main_df, phone):
 
     phone = phone[['ID', 'PRPHONE', 'BRPHONE', 'CARPHONE', 'EMAIL', 'OTHEREMAIL', 'HOLDS']]
 
-    final = (main_df.merge(phone, how = 'left', on = 'ID').drop_duplicates('ID')
+    final = (main_df.merge(phone, how = 'left', on = 'ID')
+                    .drop_duplicates('ID')
                     .reset_index(drop = True)
             )
     
