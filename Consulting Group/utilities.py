@@ -5,7 +5,7 @@ def retrieve_and_open_csv_files(folder_path, keyword=None):
     """
     Retrieve and open CSV files from a folder, optionally filtering by a keyword in the filename.
 
-    Args:
+    Parameters:
         folder_path (str): Path to the folder containing files.
         keyword (str, optional): A string to filter filenames. Only files containing this string will be opened.
 
