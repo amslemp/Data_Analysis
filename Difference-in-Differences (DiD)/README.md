@@ -1,6 +1,6 @@
 # Purpose
 
-One of our executives (a Dean) wanted to know if an intervention we started in Fall 2024 to bring in more customers (students) impacted student persistence (i.e. reenrolling from Fall to Spring). These *treated* students were tracked and analyzed to see if their persistence was, indeed, statistically significantly different than their peers. \
+One of our executives (a Dean) wanted to know if an intervention we started in Fall 2024 to bring in more customers (students) impacted student persistence (i.e. reenrolling from Fall to Spring). These *treated* students were tracked and analyzed to see if their persistence was, indeed, statistically significantly different than their peers.
 
 # Methods
 
