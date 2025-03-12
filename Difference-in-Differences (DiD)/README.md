@@ -4,7 +4,7 @@ One of our executives (a Dean) wanted to know if an intervention we started in F
 
 # Methods
 
-Difference-in-Differences (DiD) is a common way to carry out causal inference analysis on interventions such as these. Consequently, I carried out a DiD to ascertain whether there was a statistically significant difference in between the treatment and control groups' persistence. 
+Difference-in-Differences (DiD) is a common way to carry out causal inference analysis on interventions such as these. Consequently, I carried out a DiD to ascertain whether there was a statistically significant difference in between the treatment and control groups' persistence. The actual jupyter notebook shows the entire analysis in detail so I will not belabor it here. I normally write up a written report to the stakeholder after I do these types of analysis. For this one, however, I submitted the jupyter notebook in HTML format so that the methods could be evaluated more thoroughly if anyone in the exec council wished to do so. 
 
 # Results
 
